@@ -1,6 +1,6 @@
 ### Hi there, my name is Tereza! ✨
 I live in Athens, Greece and I'm currently an Electrical and Computer Engineering Student at NTUA. 🔭
-Connect with me on [LinkedIn](https://www.linkedin.com/in/tereza-anna-vassiliou-315b6522b)
+Connect with me on [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tereza-anna-vassiliou-315b6522b).
 
 Active projects on Distributed Systems, Docker, SaaS and ML for image processing. 
 
