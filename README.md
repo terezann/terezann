@@ -4,6 +4,8 @@ Connect with me on [![LinkedIn](https://img.shields.io/badge/-0077B5?style=flat&
 
 Active projects on Distributed Systems, Docker, SaaS and ML for image processing.
 
+test: ![Visitor Count](https://profile-counter.glitch.me/terezann/count.svg)
+
 <!--
 **terezann/terezann** is a ✨ _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
