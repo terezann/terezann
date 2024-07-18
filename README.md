@@ -2,8 +2,6 @@
 I live in Athens, Greece and I'm currently an Electrical and Computer Engineering Student at NTUA. 🔭  
 Connect with me on [![LinkedIn](https://img.shields.io/badge/-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tereza-anna-vassiliou-315b6522b/)!
 
-Active projects on Distributed Systems, Docker, SaaS and ML for image processing.
-
 <!--
 **terezann/terezann** is a ✨ _special_  repository because its `README.md` (this file) appears on your GitHub profile.
 
