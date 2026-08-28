@@ -1,5 +1,5 @@
 ### Hi there, my name is Tereza! ✨
-I live in Athens, Greece and I'm currently an Electrical and Computer Engineering Student at NTUA. 🔭  
+I live in Athens, Greece and I'm currently an Electrical and Computer Engineering Student at the NTUA. 🔭  
 Connect with me on [![LinkedIn](https://img.shields.io/badge/-0077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tereza-anna-vassiliou-315b6522b/)!
 
 <!--
